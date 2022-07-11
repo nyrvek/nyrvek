@@ -1,4 +1,4 @@
-# Olá, Eu sou Kevyn marciano 👋
+# Olá, Eu sou Kevyn Marciano 👋
 
 ## Atualmente sou estudante de análise e desenvolvimento de sistemas 👨🏽‍💻
 
